@@ -1,3 +1,4 @@
 This is about the new release
 Something is written in release_notes on 18/08/2023_16:50:06
 Something is written in release_notes on 18/08/2023_17:15:00
+Something is written in release_notes on date
